@@ -29,7 +29,7 @@
     "express-session": "^1.17.0",
     "finale-rest": "^1.1.1",
     "inflection": "^1.12.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.26.0",
     "morgan": "^1.9.1",
     "passport": "^0.4.1",
